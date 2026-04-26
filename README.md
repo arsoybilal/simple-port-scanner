@@ -19,3 +19,7 @@ Bu araç Python'un yerleşik `socket` kütüphanesini kullanır. Herhangi bir ek
 1. Projeyi bilgisayarınıza indirin:
    ```bash
    git clone https://github.com/arsoybilal/simple-port-scanner.git
+
+##⚠️ Yasal Uyarı:
+Bu araç sadece eğitim ve etik test süreçleri için geliştirilmiştir. İzniniz olmayan sistemler üzerinde tarama yapmak yerel yasalarca suç teşkil edebilir. Kullanımdan doğacak sorumluluklar tamamen kullanıcıya aittir.
+   
