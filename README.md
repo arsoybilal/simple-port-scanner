@@ -20,6 +20,6 @@ Bu araç Python'un yerleşik `socket` kütüphanesini kullanır. Herhangi bir ek
    ```bash
    git clone https://github.com/arsoybilal/simple-port-scanner.git
 
-##Yasal Uyarı:
+## Yasal Uyarı:
 Bu araç sadece eğitim ve etik test süreçleri için geliştirilmiştir. İzniniz olmayan sistemler üzerinde tarama yapmak yerel yasalarca suç teşkil edebilir. Kullanımdan doğacak sorumluluklar tamamen kullanıcıya aittir.
    
