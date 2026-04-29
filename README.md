@@ -27,7 +27,7 @@ Bu araç Python'un yerleşik `socket` kütüphanesini kullanır. Herhangi bir ek
    python scanner.py
 
 ##  Örnek Çıktı
---------------------------------------------------
+    --------------------------------------------------
 Hedef taranıyor: 192.168.1.1
 Tarama başlangıcı: 2026-04-26 11:30:00
 --------------------------------------------------
