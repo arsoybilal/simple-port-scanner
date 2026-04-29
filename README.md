@@ -28,13 +28,13 @@ Bu araç Python'un yerleşik `socket` kütüphanesini kullanır. Herhangi bir ek
 
 ##  Örnek Çıktı
     --------------------------------------------------
-Hedef taranıyor: 192.168.1.1
-Tarama başlangıcı: 2026-04-26 11:30:00
---------------------------------------------------
-Port 22: AÇIK
-Port 80: AÇIK
-Port 443: AÇIK
-...
+    Hedef taranıyor: 192.168.1.1
+    Tarama başlangıcı: 2026-04-26 11:30:00
+    --------------------------------------------------
+    Port 22: AÇIK
+    Port 80: AÇIK
+    Port 443: AÇIK
+    ...
 ## Yasal Uyarı:
 Bu araç sadece eğitim ve etik test süreçleri için geliştirilmiştir. İzniniz olmayan sistemler üzerinde tarama yapmak yerel yasalarca suç teşkil edebilir. Kullanımdan doğacak sorumluluklar tamamen kullanıcıya aittir.
    
